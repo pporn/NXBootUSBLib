@@ -14,6 +14,6 @@ FOUNDATION_EXPORT double NXBootUSBLibVersionNumber;
 //! Project version string for NXBootUSBLib.
 FOUNDATION_EXPORT const unsigned char NXBootUSBLibVersionString[];
 
-#import <NXBootUSBLib/NXExc.h>
+#import <NXBootUSBLib/NXExec.h>
 #import <NXBootUSBLib/NXUSBDeviceEnumerator.h>
 #import <NXBootUSBLib/NXUSBDevice.h>
